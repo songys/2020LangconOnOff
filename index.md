@@ -15,10 +15,10 @@ layout: home
 
                             
                        
-<img src="./pic/ime.png" width="600"><BR>                           
+<img src="./pic/timetable.png" width="600"><BR>                           
 
 # 찾아 오시는 길           
-<img src="./pic/map.png" width="600"><BR> 
+<img src="./pic/map1.png" width="600"><BR> 
 
 # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   

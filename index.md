@@ -6,7 +6,9 @@ layout: home
 ---
 
                   
-# 2020sus 8월 29(목) Lanfcon2020On&Off
+
+
+# 2020년 8월 29(목) Langcon2020On&Off
 
 <img src="./pic/poster2020.png" width="720"><BR>
 
@@ -15,7 +17,7 @@ layout: home
 
                             
                        
-<img src="./pic/timetable.png" width="900"><BR>                           
+<img src="./pic/time.png" width="900"><BR>                           
 
 # 찾아 오시는 길           
 <img src="./pic/map1.png" width="900"><BR> 

@@ -5,8 +5,6 @@
 layout: home
 ---
 
-                  
-
 
 # 2020년 8월 29(목) Langcon2020On&Off
 
@@ -17,10 +15,12 @@ layout: home
 
                             
                        
-<img src="./pic/time.png" width="900"><BR>                           
+<img src="./pic/timetable.png" width="900"><BR>                           
 
-# 찾아 오시는 길           
-<img src="./pic/map1.png" width="900"><BR> 
+# 대회는 Zoom.us 와 Youtube를 통해 공개됩니다.
+신청하신 분들께 메일을 통해 Zoom 링크를 보내 드리겠습니다.
+
+
 
 # 지난 대회 보기          
 [멜팅팡_연합세미나](https://www.onoffmix.com/event/110570)                   

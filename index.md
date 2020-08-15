@@ -30,7 +30,7 @@ layout: home
 # 후원                       
 
 [Open UP](https://www.oss.kr/)            
-<img src="./pic/nipa1.png" width="700"><BR>     
+<img src="./pic/nipa1.png" width="500"><BR>     
 
             
 [위키북스](http://wikibook.co.kr/)  

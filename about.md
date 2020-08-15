@@ -29,7 +29,7 @@ permalink: /about/
 
 |:--------:|:-----------------:|:-----------:|:--------:|
 |송영숙![1](./pic/song.jpg)|송치성![2](./pic/chsong.jpg)||이재석![3](./pic/jslee.jpg)|이상열![4](./pic/syLee.jpg)|
-|박신홍![5](./pic/shpark.png)|송진영![6](./pic/jysong.png))     
+|박신홍![5](./pic/shpark.png)|송진영![6](./pic/jysong.png)           
 
 
 

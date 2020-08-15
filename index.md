@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="./pic/wug.png" width="100"><BR>
+<img src="./pic/wug.png" width="50"><BR>
 <img src="./pic/poster_new.png" width="720"><BR>
 
 

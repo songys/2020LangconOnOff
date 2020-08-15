@@ -5,7 +5,7 @@
 layout: home
 ---
 
-
+<img src="./pic/wug.png" width="100"><BR>
 <img src="./pic/poster_new.png" width="720"><BR>
 
 
@@ -13,7 +13,7 @@ layout: home
 
                             
                        
-<img src="./pic/timetable.png" width="1000"><BR>                           
+<img src="./pic/schedule.png" width="1000"><BR>                           
 
 
 
@@ -30,11 +30,12 @@ layout: home
 # 후원                       
 
 [Open UP](https://www.oss.kr/)            
-![sw](./pic/nipa1.png)
-                         
-                
-[위키북스](http://wikibook.co.kr/)                             
-![위키북스](./pic/wiki.png)                         
+<img src="./pic/nipa1.png" width="700"><BR>     
+
+            
+[위키북스](http://wikibook.co.kr/)  
+![위키북스](./pic/wiki.png)                               
+
                                         
 
 

@@ -6,13 +6,11 @@ permalink: /about/
 
 
 ![사진](./pic/b.png)
-
-"제목"을 클릭하시면 발표 자료를 보실 수 있습니다.
     
 
 |번호|발표 유형|이름|소속|제목|발표 소개|
 |:---:|:-----------------:|:-----------:|:--------:|:--------:|:--------------:|
-|0|오프닝|송영숙![사진](./pic/song.jpg)|평범한 국문과|자연어처리, 데이터에게 길을 묻다|[발표 자료 링크](https://github.com/songys/AwesomeKorean_Data)|
+|0|오프닝|송영숙![사진](./pic/song.jpg)|평범한 국문과|자연어처리, 데이터에게 길을 묻다|[발표 자료 링크]한국어 오픈 데이터 세트를 통해 이제까지의 자연어 처리의 흐름을 살펴 보고 앞으로 나아가야 할 길을 간단히 모색해 보려고 합니다. (https://github.com/songys/AwesomeKorean_Data)|
 |1|키노트|박상원![사진](./pic/sangwonpark.jpg)|DeepNatural AI|고품질 코퍼스를 만들어 드립니다.|-|   
 |3|키노트|김준석![사진](./pic/jun.jpg)|현대차  AIR랩|자동차 만드는 회사에서 필요한 NLP|-|    
 |1|스피커|김현중![사진](./pic/kj.jpg)|-|KoNLPy 를 이용하여 Huggingface Transformers 학습하기|Huggingface tokenizers 외 다른 기학습된 토크나이저를 이용하여 Transformers 모델을 학습하고, 사전방식의 토크나이저와 word piece 기반 토크나이저의 차이를 살펴봅니다.|   

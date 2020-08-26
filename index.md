@@ -13,7 +13,7 @@ layout: home
 
                             
                        
-<img src="./pic/schedule.png" width="1000"><BR>                           
+<img src="./pic/time.png" width="1000"><BR>                           
 
 
 

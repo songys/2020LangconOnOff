@@ -31,7 +31,7 @@ https://join.slack.com/t/2020langcon/shared_invite/zt-gpl9z3ab-1tjg59eOd~nBP01ST
 
 
 # 후원                       
-
+## 정보통신산업진흥원(NIPA)
 [Open UP](https://www.oss.kr/)            
 <img src="./pic/nipa1.png" width="500"><BR>     
 

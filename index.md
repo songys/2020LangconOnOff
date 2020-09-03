@@ -15,9 +15,6 @@ layout: home
                        
 <img src="./pic/time.png" width="1000"><BR>                           
 
-# 슬랙
-질의 응답과 소통을 위해 슬랙을 운영합니다.
-https://join.slack.com/t/2020langcon/shared_invite/zt-gpl9z3ab-1tjg59eOd~nBP01ST71UXw
 
 
 # 지난 대회 보기          
